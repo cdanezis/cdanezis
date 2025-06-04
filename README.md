@@ -13,10 +13,10 @@ Passionate about advancing geospatial science and technology.
 ---
 
 ## 🌐 Connect with Me
-- 🌎 [Cyclops Project](https://cyclops.cy)
-- 🚀 [Celestia Project](https://celestia.eu)
-- 💼 [LinkedIn](https://www.linkedin.com/in/chrisdanezis/)
-- 💬 [Facebook (Cyclops)](https://www.facebook.com/CyclopsCy/)
+- 🌎 [CyCLOPS Project](https://cyclops.cy)
+- 🚀 [Celestia Lab](https://celestia.eu)
+- 💼 [LinkedIn (CyCLOPS)](https://www.linkedin.com/in/chrisdanezis/)
+- 💬 [Facebook (CyCLOPS)](https://www.facebook.com/CyclopsCy/)
 
 ---
 
