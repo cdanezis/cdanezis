@@ -7,7 +7,7 @@ Passionate about advancing geospatial science and technology.
 
 ## 🔍 What I Do
 - Specialist in **GNSS** (Global Navigation Satellite Systems) and **InSAR** (Interferometric Synthetic Aperture Radar)
-- Deep experience in **Numerical Computing** and **Infrastructure Communication**
+- Deep experience in **Numerical Computing**, **Distributed and Parallel Systems**, **Data Engineering and Real-Time Stream Processing**
 - Polyglot developer: **Go**, **Python**, **C/C++**, **C#**
 
 ---
@@ -22,7 +22,7 @@ Passionate about advancing geospatial science and technology.
 
 ## 💡 Motto
 
-> Lux in Tenebris
+> Lux in Tenebris Lucet
 
 ---
 
